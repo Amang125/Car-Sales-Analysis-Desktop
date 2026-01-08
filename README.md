@@ -1,3 +1,7 @@
+## Aman Gole
+
+## Dasbord Image
+
 ![Dasbord Image](https://github.com/Amang125/Car-Sales-Analysis-Desktop/blob/main/Screenshot%202026-01-08%20093422.png)
 Automotive Sales and Market Analysis Dashboard Project Overview This repository contains a Power BI dashboard designed to provide a comprehensive analysis of the automotive market. The dashboard offers key insights into sales performance, brand market share, and top-selling models across various manufacturers. This tool is ideal for market analysts, sales teams, and business leaders to monitor trends and make data-driven decisions.
 
