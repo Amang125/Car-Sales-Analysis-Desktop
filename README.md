@@ -1,4 +1,4 @@
-![Image = https://github.com/Amang125/Car-Sales-Analysis-Desktop/blob/main/Screenshot%202026-01-08%20085931.png]
+![Image][https://github.com/Amang125/Car-Sales-Analysis-Desktop/blob/main/Screenshot%202026-01-08%20085931.png]
 🚗 Car Sales & Market Share Dashboard (Power BI)
 
 An interactive Power BI dashboard that analyzes car brand performance, revenue, market share, sales trends, and top models across multiple automobile brands.
